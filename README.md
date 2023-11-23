@@ -99,8 +99,7 @@
 
 
 
-
-Thanks for downloading this template!
+A web portfolio i put together to showcase my career to date.
 
 Template Name: Personal
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
